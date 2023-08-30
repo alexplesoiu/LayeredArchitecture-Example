@@ -1,2 +1,2 @@
 # Layered Architecture Demonstration With Python
-This is related to a medium article that is in pending. I will upload this Readme once i publish that article
+Full Guide: https://levelup.gitconnected.com/write-python-apps-using-layered-architecture-and-design-patterns-75cb29b20c99
